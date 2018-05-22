@@ -1,5 +1,4 @@
-# 3dPrinter
-3d printer concept
+# 3d Printer concept
 
 ## Motivation
 Make 3d printer of cube type
